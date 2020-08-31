@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/levelloader.unity
+    guid: e45398c9286073d469629f530f7e4923
+  - enabled: 1
+    path: Assets/Scenes/asylum.unity
+    guid: c1fe28b489b9c1c4c89df37bd3a3f6b7
+  m_configObjects: {}
